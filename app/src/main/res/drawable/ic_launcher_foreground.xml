@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bracket support -->
+    <path
+        android:pathData="M38,68 L38,82 L52,82 L52,78 L44,78 L44,68 Z"
+        android:fillColor="#FFFFFF" />
+    <!-- Camera Body -->
+    <path
+        android:pathData="M32,36 L68,36 C73.5,36 78,40.5 78,46 L78,58 C78,63.5 73.5,68 68,68 L32,68 C26.5,68 22,63.5 22,58 L22,46 C22,40.5 26.5,36 32,36 Z"
+        android:fillColor="#FFFFFF" />
+    <!-- Camera Sunshield / Hood -->
+    <path
+        android:pathData="M20,32 L74,32 C78,32 80,34 80,38 L80,41 L18,41 L18,38 C18,34 20,32 20,32 Z"
+        android:fillColor="#EAF6FC" />
+    <!-- Main Lens -->
+    <path
+        android:pathData="M64,52 A10,10 0 1,1 44,52 A10,10 0 1,1 64,52 Z"
+        android:fillColor="#0B8FCB" />
+    <!-- Lens reflection dot -->
+    <path
+        android:pathData="M51,49 A3,3 0 1,1 45,49 A3,3 0 1,1 51,49 Z"
+        android:fillColor="#FFFFFF" />
+    <!-- IR Indicator dot -->
+    <path
+        android:pathData="M30,52 A2.5,2.5 0 1,1 25,52 A2.5,2.5 0 1,1 30,52 Z"
+        android:fillColor="#FF5C5C" />
+</vector>

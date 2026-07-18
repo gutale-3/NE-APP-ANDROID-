@@ -1,0 +1,8 @@
+{
+  "name": "Nashnaal Electronics",
+  "description": "Authorized Hikvision distributor and retailer in Kenya. Genuine CCTV cameras, NVRs, access control, intercoms and professional installation services in Nairobi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
